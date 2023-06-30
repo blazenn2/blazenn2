@@ -79,6 +79,12 @@
 </a>
 </div>  
 
+<br/>  
+
+
+## Github Stats  
+<div align="center">
+<!--    <img src="https://github-readme-stats.vercel.app/api?username=blazenn2&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=blazenn2)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazenn2)](https://github.com/anuraghazra/github-readme-stats)
@@ -90,18 +96,10 @@
 ![GitHub metrics](https://metrics.lecoq.io/blazenn2)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=blazenn2)  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blazenn2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+</div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 <!--
 **blazenn2/blazenn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
